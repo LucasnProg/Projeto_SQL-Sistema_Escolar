@@ -1,6 +1,6 @@
-[cite_start]Este repositório contém o projeto de um sistema de controle acadêmico, desenvolvido como parte da disciplina de Banco de Dados na Universidade Estadual da Paraíba (UEPB)[cite: 1].
+Este repositório contém o projeto de um sistema de controle acadêmico, desenvolvido como parte da disciplina de Banco de Dados na Universidade Estadual da Paraíba (UEPB).
 
-[cite_start]O projeto abrange um modelo relacional detalhado para gerenciar informações acadêmicas, incluindo entidades como[cite: 2, 3]:
+O projeto abrange um modelo relacional detalhado para gerenciar informações acadêmicas, incluindo entidades como:
 
 * **Professor**: Detalhes do professor, como matrícula, CPF, nome, e-mail, área de atuação e carga horária semanal.
 * **Disponibilidade Professor**: Gerencia a disponibilidade de cada professor por dia da semana e horários.
